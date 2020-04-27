@@ -57,6 +57,11 @@ h2 {
     margin:auto;
   }
 
+  .carousel-control.left, .carousel-control.right {
+    left: 0;
+    z-index: 1;
+  }
+
 /*Grid design*/
 #switch {
   padding: 0;
